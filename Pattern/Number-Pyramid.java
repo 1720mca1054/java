@@ -1,6 +1,6 @@
 import java.io.*; 
   
-public class GeeksForGeeks 
+public class NumberPyramid
 { 
     
     public static void printNums(int n) 
