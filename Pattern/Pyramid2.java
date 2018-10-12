@@ -1,7 +1,7 @@
 import java.io.*; 
   
 
-public class GeeksForGeeks 
+public class Pyramid2
 { 
     
     public static void printTriagle(int n) 
