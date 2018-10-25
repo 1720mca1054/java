@@ -12,7 +12,7 @@ class Factorial
       n = in.nextInt();
      
       if (n < 0)
-         System.out.println("Number should be non-negative.");
+         System.out.println("Number should be non-negative .");
       else
       {
          for (c = 1; c <= n; c++)
