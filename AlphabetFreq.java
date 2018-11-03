@@ -4,6 +4,7 @@ class AlphabetFreq
     public static void main(String args[])throws IOException
     {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+        
         System.out.print("Enter any string: ");
         String s = br.readLine();
   
