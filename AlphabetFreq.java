@@ -24,6 +24,7 @@ class AlphabetFreq
                 count = 0;
                 for(int j=0; j<l; j++)
                 {
+                    
                     ch=s.charAt(j); //extracting characters of the string one by one
                     if(ch==i) //first checking the whole string for 'a', then 'b' and so on
                         count++; //increasing count of those aplhabets which are present in the string
