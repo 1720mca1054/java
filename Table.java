@@ -11,7 +11,7 @@ class Table
     n = in.nextInt();
     System.out.println("Multiplication table of " + n);
  
-    for (c = 1; c <= 10; c++)
+   for (c = 1; c <= 10; c++)
       System.out.println(n + "*" + c + " = " + (n*c));
   }
 }
