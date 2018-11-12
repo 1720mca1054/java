@@ -3,6 +3,7 @@ public class Convert
 {
     public static void main(String[] args) 
     {
+        
         int n, count = 0, a;
         String x = "";
         Scanner s = new Scanner(System.in);
