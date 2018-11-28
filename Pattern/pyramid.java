@@ -7,7 +7,7 @@ public class pyramid
 	{ 
 		int i, j; 
 
-		
+	
 		for(i=0; i<n; i++) 
 		{ 
 
