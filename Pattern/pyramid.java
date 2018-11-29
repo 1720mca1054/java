@@ -3,7 +3,7 @@ import java.io.*;
 public class pyramid
 { 
 	
-	public static void printStars(int n) 
+public static void printStars(int n) 
 	{ 
 		int i, j; 
 
