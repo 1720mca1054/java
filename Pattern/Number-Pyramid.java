@@ -1,6 +1,5 @@
 import java.io.*; 
-  
-public class NumberPyramid
+  public class NumberPyramid
 { 
       public static void printNums(int n) 
     { 
