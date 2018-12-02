@@ -2,8 +2,7 @@ import java.io.*;
   
 public class NumberPyramid
 { 
-    
-    public static void printNums(int n) 
+      public static void printNums(int n) 
     { 
         int i, j,num; 
   
