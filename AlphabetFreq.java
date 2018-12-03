@@ -12,7 +12,7 @@ class AlphabetFreq
         s=s.toLowerCase(); //converting the string into lowercase
         int l=s.length(); //finding the length of the string
   
-        char ch;
+   char ch;
         System.out.println("Output:");
         System.out.println("=========================="); //this is just for styling the look of the output
         System.out.println("Alphabet\tFrequency");
