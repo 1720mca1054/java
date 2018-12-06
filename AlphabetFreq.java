@@ -7,7 +7,7 @@ class AlphabetFreq
         
         System.out.print("Enter any string: ");
         String s = br.readLine();
-  
+ 
         s=s.toLowerCase(); //converting the string into lowercase
         int l=s.length(); //finding the length of the string
  
