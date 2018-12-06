@@ -1,5 +1,4 @@
 import java.io.*;
-
 class AlphabetFreq
     {
     public static void main(String args[])throws IOException
