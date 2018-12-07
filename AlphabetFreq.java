@@ -33,7 +33,7 @@ class AlphabetFreq
                     System.out.println(i+"\t\t"+count);
                 }
             }
-        
+       
         
     }
 }
