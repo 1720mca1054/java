@@ -1,8 +1,7 @@
 import java.util.Scanner;
 public class Convert
 {
-    
-    public static void main(String[] args) 
+        public static void main(String[] args) 
     {
         
        int n, count = 0, a;
