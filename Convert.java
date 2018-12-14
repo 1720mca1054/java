@@ -17,6 +17,7 @@ public class Convert
             }
             x = x + "" + a;
             n = n / 2;
+                
         }
         System.out.println("Binary number:"+x);
         System.out.println("No. of 1s:"+count);
